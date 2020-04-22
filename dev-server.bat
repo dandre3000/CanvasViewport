@@ -1,2 +1,2 @@
-cd C:\Users\DeAundre\Documents\GitHub\camera
+cd C:\Users\DeAundre\Documents\GitHub\CanvasViewport
 npm run dev
